@@ -1,7 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Research"
+    url: /portfolio/
+  
+  - title: "Publications"
+    url: /publications/  
+  
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Mentoring"
+    url: /mentoring/
+    
+  - title: "SciComm"
+    url: /scicomm/
+    
+  - title: "CV"
+    #url: /files/CV_Website_2024Sep11.pdf
+
+#main:
+ # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
